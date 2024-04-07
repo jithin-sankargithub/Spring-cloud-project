@@ -1,0 +1,7 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªÔ‘¾ë1J$51f02e61-6630-4428-b1df-8b38d940afdc
+š
+java:S3305"WInject this field value directly into "postGlobalFilter", the only method that uses it.(–ßÂ©8Ê’¾ë1J$fc8541ad-b424-4c40-830f-c58d8195b90b
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¯âÿùÿÿÿÿ8ÂÔ‘¾ë1J$6ec06c73-4e77-4912-8355-de46e9dd2dcd

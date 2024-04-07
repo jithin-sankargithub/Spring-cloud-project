@@ -26,9 +26,17 @@ management:
     web:
       exposure:
         include: "*"
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
+      enabled: true
   endpoint:
     shutdown:
       enabled: true
+    health:
+      probes:
+        enabled: true
   info:
     env:
       enabled: true
@@ -64,3 +72,9 @@ cards:
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
+
+logging:
+  level:
+    com:
+      eazybytes:
+        cards: DEBUG

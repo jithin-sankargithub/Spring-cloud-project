@@ -1,0 +1,5 @@
+
+’
+java:S2259"OA "NullPointerException" could be thrown; "requestHeaderList" is nullable here.(ÒìÒÁ8ö°ğ½ë1J$d7840360-759d-428a-a4b0-db9055c56fa3
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÒìÒÁ8ø°ğ½ë1J$28b2eb63-132f-43e1-901a-a607033be804
