@@ -65,3 +65,11 @@ w
 Gloans/src/main/java/com/eazybytes/loans/controller/LoansController.java,b\b\bbde913d2bbe6a3e954317fa15270dafbf7beef1
 T
 $docker-compose/qa/docker-compose.yml,5\6\56d817b344f1269ba18969b36d63f147f84512e3
+Š
+Zgatewayserver/src/main/java/com/eazybytes/gatewayserver/controller/FallBackController.java,7\6\76181f7b0021d215a0592bb1ff5582c3d5363155
+€
+Paccounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java,4\f\4f94dbbdc7f95df6202e5f19ce0f53aa5503a31b
+
+Oaccounts/src/main/java/com/eazybytes/accounts/service/client/CardsFallBack.java,e\5\e5f9af50a213a6b16b1e77f8f11608eebeef1576
+
+Oaccounts/src/main/java/com/eazybytes/accounts/service/client/LoansFallBack.java,1\4\14877f146f75840b1924b1d5fdf7825368a9ad25
