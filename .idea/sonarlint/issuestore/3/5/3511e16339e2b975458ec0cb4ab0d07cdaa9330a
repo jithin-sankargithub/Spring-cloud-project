@@ -1,5 +1,7 @@
 
 
-java:S1192"LDefine a constant instead of duplicating this literal "/${segment}" 3 times.(†‹Ñ¶8ÒıÀ¼ë1J$016dce43-cf34-4b2a-8765-06b555ed9c46
+java:S1192""LDefine a constant instead of duplicating this literal "/${segment}" 3 times.(†‹Ñ¶8¦ï‹ì1J$0462da65-5b0b-4e86-9e8c-64b11c290456
 “
-java:S1192"PDefine a constant instead of duplicating this literal "X-Response-Time" 3 times.(ìŠÏñ8ºëË½ë1J$406d2278-d337-46d6-8984-31ce3bd1384b
+java:S1192#"PDefine a constant instead of duplicating this literal "X-Response-Time" 3 times.(ìŠÏñ8§ï‹ì1J$13712ae2-2634-47b2-aa11-cbf32c88f2d5
+¸
+java:S1128"uRemove this unused import 'org.springframework.cloud.circuitbreaker.resilience4j.ReactiveResilience4JCircuitBreaker'.(½â‘İ8óÆï‹ì1J$b7e32390-29f3-4577-8ce1-fce6a59126ca

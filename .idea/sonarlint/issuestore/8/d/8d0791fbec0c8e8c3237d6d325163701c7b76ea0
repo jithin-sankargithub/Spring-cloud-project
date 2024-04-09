@@ -1,7 +1,7 @@
 
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªÔ‘¾ë1J$51f02e61-6630-4428-b1df-8b38d940afdc
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ß¥‰Œì1J$e34878c2-f160-482c-bf38-3ebee5f62b02
 š
-java:S3305"WInject this field value directly into "postGlobalFilter", the only method that uses it.(–ßÂ©8Ê’¾ë1J$fc8541ad-b424-4c40-830f-c58d8195b90b
+java:S3305"WInject this field value directly into "postGlobalFilter", the only method that uses it.(–ßÂ©8â¥‰Œì1J$793c0cb7-f24d-4172-9266-5eb6ae989865
 ›
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¯âÿùÿÿÿÿ8ÂÔ‘¾ë1J$6ec06c73-4e77-4912-8355-de46e9dd2dcd
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¯âÿùÿÿÿÿ8ë¥‰Œì1J$231add5a-ee87-4266-b120-fb65d751d880

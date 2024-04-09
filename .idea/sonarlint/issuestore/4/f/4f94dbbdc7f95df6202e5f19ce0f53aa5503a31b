@@ -1,23 +1,25 @@
 
-W
-java:S1710:"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-W
-java:S1710T"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-W
-java:S1710n"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-X
-java:S1710’"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-X
-java:S1710¸"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-X
-java:S1710Ñ"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-X
-java:S1710ê"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
-X
-java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ
-X
-java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ
-R
-java:S6353d"<Use concise character class syntax '\\d' instead of '[0-9]'.(÷‘„§
-S
-java:S6353¦"<Use concise character class syntax '\\d' instead of '[0-9]'.(÷‘„§
+„
+java:S1710?"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8­ÀÕ‹ì1J$2a57a999-f727-43bb-ac29-30d559b6a692
+„
+java:S1710Y"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8®ÀÕ‹ì1J$a054dd7d-d045-4a0a-8897-3e0539e52162
+„
+java:S1710s"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8®ÀÕ‹ì1J$0f7a5d44-c66e-4f08-8cc1-4ef754d34064
+…
+java:S1710—"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8¯ÀÕ‹ì1J$7a57325f-6674-43ca-8612-f0a8bb71cd3b
+…
+java:S1710½"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8¯ÀÕ‹ì1J$865ca827-5a95-45f5-98a1-add45c1be78f
+…
+java:S1710ß"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8¯ÀÕ‹ì1J$e01aa3c6-c24e-4af1-a5e1-bc221a461709
+…
+java:S1710ø"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8°ÀÕ‹ì1J$93a685fb-a6b1-44ac-94db-90d2a5717952
+…
+java:S68135"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÑÀÕ‹ì1J$c2b8c440-8f86-4118-9d3a-8a68c4f4eef7
+…
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÑÀÕ‹ì1J$808a76e8-d8ed-4bb1-b74f-1709692a920b
+
+java:S6353i"<Use concise character class syntax '\\d' instead of '[0-9]'.(÷‘„§8äÀÕ‹ì1J$2d89c685-8a0f-4a22-8967-844e070dd7bd
+€
+java:S6353«"<Use concise character class syntax '\\d' instead of '[0-9]'.(÷‘„§8ëÀÕ‹ì1J$20365f6a-f646-4e62-9419-5c15b1e3b206
+y
+java:S1172Õ"0Remove this unused method parameter "throwable".(º¦™ûıÿÿÿÿ8ñÀÕ‹ì1J$875a5d1f-ddf5-4995-8556-c4b33b8fb318
