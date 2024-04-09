@@ -1,4 +1,5 @@
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\service\client\LoansFeignClient.java
+D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\service\client\LoansFallBack.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\exception\ResourceNotFoundException.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\constants\AccountsConstants.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\dto\CardsDto.java
@@ -18,6 +19,7 @@ D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\controller\AccountsController.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\dto\LoansDto.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\repository\AccountsRepository.java
+D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\service\client\CardsFallBack.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\dto\AccountsDto.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\exception\CustomerAlreadyExistsException.java
 D:\Jithin Sankar M\Microservices\My Practices\Spring-cloud-project\accounts\src\main\java\com\eazybytes\accounts\service\impl\AccountsServiceImpl.java
